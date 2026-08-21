@@ -17,27 +17,26 @@ I'm a passionate software engineering student with a strong foundation in full-s
 JavaScript • TypeScript • Python • Java • SQL • C++  
 
 **Frontend**  
-React • Next.js • Tailwind CSS • HTML/CSS
+React.js • Next.js • Tailwind CSS 
 
 **Backend**  
-Node.js • Express • Springboot
+Node.js • Express
 
 **Tools & Technologies**  
-Git • Docker • VS Code • Figma • Postman
+Git • Docker • VS Code • Figma • Postman • Google Antigravity • Claude Code
 
 **Databases**  
-PostgreSQL • MongoDB • Redis • MySQL
+PostgreSQL • MongoDB
 
 **AI/ML**  
-OpenAI API • TensorFlow • Scikit-learn • Pandas
+TensorFlow • Scikit-learn • Pandas
 
 ##  What I'm Working On
 
-- Working on Building System Level Application using C++
-- Grinding DSA
-- Working on Hallucination Detection in LLMs
+- Preparing for software engineering placements (DSA + systems fundamentals)
+- Building an evidence-grounded hallucination detection system for LLM outputs (final year project, team lead)
 - Actively Looking for Contributing in Open Source Projects
-- Learning to build Enterprise Grade Backends in Springboot 
+- Shipping features on Fundora, an AI-driven startup-investor matchmaking platform 
 
 ##  Interests
 
@@ -47,6 +46,11 @@ OpenAI API • TensorFlow • Scikit-learn • Pandas
 - Cloud Computing
 - Open Source Contribution
 
+##  Other Projects
+
+- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Advance-Machine-Learning-Project-Concept-Drift.git))** — Comparative Evaluation of Concept Drift Adaptation Strategies for Streaming Classification: A Benchmark Study Across Synthetic and Real-World Data `Python, Pandas, River`
+- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/AI-Exam-Assistant-using-RAG.git))** — RAG Chatbot which helps in preparing for exams. `Python, StreamLit, ChromaDB, FAISS, LangChain`
+- 
 ##  Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-AryanKulkarni11042005-181717?style=for-the-badge&logo=github)](https://github.com/AryanKulkarni11042005)
