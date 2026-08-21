@@ -50,7 +50,6 @@ TensorFlow • Scikit-learn • Pandas
 
 - **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Advance-Machine-Learning-Project-Concept-Drift.git))** — Comparative Evaluation of Concept Drift Adaptation Strategies for Streaming Classification: A Benchmark Study Across Synthetic and Real-World Data `Python, Pandas, River`
 - **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/AI-Exam-Assistant-using-RAG.git))** — RAG Chatbot which helps in preparing for exams. `Python, StreamLit, ChromaDB, FAISS, LangChain`
-- 
 ##  Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-AryanKulkarni11042005-181717?style=for-the-badge&logo=github)](https://github.com/AryanKulkarni11042005)
