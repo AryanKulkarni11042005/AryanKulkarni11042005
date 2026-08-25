@@ -36,7 +36,8 @@ TensorFlow • Scikit-learn • Pandas
 - Preparing for software engineering placements (DSA + systems fundamentals)
 - Building an evidence-grounded hallucination detection system for LLM outputs (final year project, team lead)
 - Actively Looking for Contributing in Open Source Projects
-- Shipping features on Fundora, an AI-driven startup-investor matchmaking platform 
+- Shipping features on Fundora, an AI-driven startup-investor matchmaking platform
+- Building Redis Clone Server Entirely in C++
 
 ##  Interests
 
