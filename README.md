@@ -14,7 +14,7 @@ I'm a passionate software engineering student with a strong foundation in full-s
 ##  Tech Stack
 
 **Languages**  
-JavaScript • TypeScript • Python • Java • SQL • C++  
+C++ • Python • Java • SQL • Javascript   
 
 **Frontend**  
 React.js • Next.js • Tailwind CSS 
