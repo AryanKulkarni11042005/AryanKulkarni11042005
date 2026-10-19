@@ -40,11 +40,10 @@ TensorFlow • Scikit-learn • Pandas
 
 ##  Interests
 
-- Full-Stack Development
-- UI/UX Design
+- C++ Development
 - Artificial Intelligence & Machine Learning
-- Cloud Computing
-- Open Source Contribution
+- Deep Learning
+- CUDA Computing
 
 ##  Other Projects
 
