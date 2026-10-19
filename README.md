@@ -47,8 +47,8 @@ TensorFlow • Scikit-learn • Pandas
 
 ##  Other Projects
 
-- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Advance-Machine-Learning-Project-Concept-Drift.git))** — Comparative Evaluation of Concept Drift Adaptation Strategies for Streaming Classification: A Benchmark Study Across Synthetic and Real-World Data `Python, Pandas, River`
-- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/AI-Exam-Assistant-using-RAG.git))** — RAG Chatbot which helps in preparing for exams. `Python, StreamLit, ChromaDB, FAISS, LangChain`
+- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Linear-Regression-in-CPP.git))** — Implementation of Linear Regression with Gradient Descent Optimization from Scratch in C++  `C++`
+- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Energy-Demand-Forecasting-Scalable-ML.git))** — Energy Demand Forecasting using EIA APIs `Python, AirFlow, MLFlow, Optuna`
 ##  Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-AryanKulkarni11042005-181717?style=for-the-badge&logo=github)](https://github.com/AryanKulkarni11042005)
