@@ -34,7 +34,7 @@ TensorFlow • Scikit-learn • Pandas
 ##  What I'm Working On
 
 - Preparing for software engineering placements (DSA + systems fundamentals)
-- Building an evidence-grounded hallucination detection system for LLM outputs (final year project, team lead)
+- Building my own decoder-only Transformer model using TinyStories Dataset to generate stories  
 - Actively Looking for Contributing in Open Source Projects
 - Watching tutorials from [@karpathy](https://github.com) to learn Neural Networks
 
@@ -47,8 +47,8 @@ TensorFlow • Scikit-learn • Pandas
 
 ##  Other Projects
 
-- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Linear-Regression-in-CPP.git))** — Implementation of Linear Regression with Gradient Descent Optimization from Scratch in C++  `C++`
-- **[Project Name]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Energy-Demand-Forecasting-Scalable-ML.git))** — Energy Demand Forecasting using EIA APIs `Python, AirFlow, MLFlow, Optuna`
+- **[Linear Regression in C++]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Linear-Regression-in-CPP.git))** — Implementation of Linear Regression with Gradient Descent Optimization from Scratch in C++  `C++`
+- **[Energy Demand Forecasting]([https://github.com/AryanKulkarni11042005/repo-name](https://github.com/AryanKulkarni11042005/Energy-Demand-Forecasting-Scalable-ML.git))** — Energy Demand Forecasting using EIA APIs `Python, AirFlow, MLFlow, Optuna`
 ##  Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-AryanKulkarni11042005-181717?style=for-the-badge&logo=github)](https://github.com/AryanKulkarni11042005)
