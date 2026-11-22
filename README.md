@@ -15,7 +15,7 @@
 
 ### About
 
-I'm a final-year Computer Engineering student who likes building things from first principles: an autograd engine in C++, a transformer language model built in a python notebook, and a production-style MLOps pipeline with automated testing and rollback. Before that, I spent 18 months as a Software Engineer shipping backend systems and LLM-powered products to paying users.
+I'm a final-year Computer Engineering student who likes building things from first principles: an autograd engine in C++, a transformer language model built using a 4GB Laptop GPU, and a production-style MLOps pipeline with automated testing and rollback. Before that, I spent 18 months as a Software Engineer shipping backend systems and LLM-powered products to paying users.
 
 I'm interested in **ML systems, high-performance C++, and GPU computing**, and I'm looking for **Software Engineering / ML Engineering roles (2027 graduate)**.
 
